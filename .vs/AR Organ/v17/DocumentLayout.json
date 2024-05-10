@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u8FC5\u96F7\u4E0B\u8F7D\\AR Organ(1)\\AR Organ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31BE74FF-4DF6-1684-786A-7A170EE015B2}|Assembly-CSharp.csproj|d:\\\u8FC5\u96F7\u4E0B\u8F7D\\ar organ(1)\\ar organ\\assets\\ar human organs\\scripts\\main_control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BE74FF-4DF6-1684-786A-7A170EE015B2}|Assembly-CSharp.csproj|solutionrelative:assets\\ar human organs\\scripts\\main_control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BE74FF-4DF6-1684-786A-7A170EE015B2}|Assembly-CSharp.csproj|D:\\\u8FC5\u96F7\u4E0B\u8F7D\\AR Organ(1)\\AR Organ\\assets\\ar human organs\\scripts\\dinosaur\\ar_object_control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BE74FF-4DF6-1684-786A-7A170EE015B2}|Assembly-CSharp.csproj|solutionrelative:assets\\ar human organs\\scripts\\dinosaur\\ar_object_control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BE74FF-4DF6-1684-786A-7A170EE015B2}|Assembly-CSharp.csproj|D:\\\u8FC5\u96F7\u4E0B\u8F7D\\AR Organ(1)\\AR Organ\\assets\\ar human organs\\scripts\\main_ui_control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BE74FF-4DF6-1684-786A-7A170EE015B2}|Assembly-CSharp.csproj|solutionrelative:assets\\ar human organs\\scripts\\main_ui_control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BE74FF-4DF6-1684-786A-7A170EE015B2}|Assembly-CSharp.csproj|D:\\\u8FC5\u96F7\u4E0B\u8F7D\\AR Organ(1)\\AR Organ\\assets\\ar human organs\\scripts\\touch_drag_rotate_scale_control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BE74FF-4DF6-1684-786A-7A170EE015B2}|Assembly-CSharp.csproj|solutionrelative:assets\\ar human organs\\scripts\\touch_drag_rotate_scale_control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BE74FF-4DF6-1684-786A-7A170EE015B2}|Assembly-CSharp.csproj|D:\\\u8FC5\u96F7\u4E0B\u8F7D\\AR Organ(1)\\AR Organ\\assets\\ar human organs\\scripts\\dinosaur\\dissolve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BE74FF-4DF6-1684-786A-7A170EE015B2}|Assembly-CSharp.csproj|solutionrelative:assets\\ar human organs\\scripts\\dinosaur\\dissolve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172AAB4F-38FD-8EE3-C34F-E1F59DCBB928}|Assembly-CSharp-Editor.csproj|D:\\\u8FC5\u96F7\u4E0B\u8F7D\\AR Organ(1)\\AR Organ\\Assets\\AR Human Organs\\plugins\\I2\\Localization\\Scripts\\Editor\\Localization\\LocalizationEditor_Terms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{172AAB4F-38FD-8EE3-C34F-E1F59DCBB928}|Assembly-CSharp-Editor.csproj|solutionrelative:Assets\\AR Human Organs\\plugins\\I2\\Localization\\Scripts\\Editor\\Localization\\LocalizationEditor_Terms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172AAB4F-38FD-8EE3-C34F-E1F59DCBB928}|Assembly-CSharp-Editor.csproj|D:\\\u8FC5\u96F7\u4E0B\u8F7D\\AR Organ(1)\\AR Organ\\Assets\\AR Human Organs\\plugins\\I2\\Localization\\Scripts\\Editor\\EditorTools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{172AAB4F-38FD-8EE3-C34F-E1F59DCBB928}|Assembly-CSharp-Editor.csproj|solutionrelative:Assets\\AR Human Organs\\plugins\\I2\\Localization\\Scripts\\Editor\\EditorTools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main_control.cs",
+              "DocumentMoniker": "D:\\\u8FC5\u96F7\u4E0B\u8F7D\\AR Organ(1)\\AR Organ\\Assets\\AR Human Organs\\scripts\\Main_control.cs",
+              "RelativeDocumentMoniker": "Assets\\AR Human Organs\\scripts\\Main_control.cs",
+              "ToolTip": "D:\\\u8FC5\u96F7\u4E0B\u8F7D\\AR Organ(1)\\AR Organ\\Assets\\AR Human Organs\\scripts\\Main_control.cs",
+              "RelativeToolTip": "Assets\\AR Human Organs\\scripts\\Main_control.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T12:35:02.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Touch_drag_rotate_scale_control.cs",
+              "DocumentMoniker": "D:\\\u8FC5\u96F7\u4E0B\u8F7D\\AR Organ(1)\\AR Organ\\Assets\\AR Human Organs\\scripts\\Touch_drag_rotate_scale_control.cs",
+              "RelativeDocumentMoniker": "Assets\\AR Human Organs\\scripts\\Touch_drag_rotate_scale_control.cs",
+              "ToolTip": "D:\\\u8FC5\u96F7\u4E0B\u8F7D\\AR Organ(1)\\AR Organ\\Assets\\AR Human Organs\\scripts\\Touch_drag_rotate_scale_control.cs",
+              "RelativeToolTip": "Assets\\AR Human Organs\\scripts\\Touch_drag_rotate_scale_control.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAABQwMUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T11:42:54.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LocalizationEditor_Terms.cs",
+              "DocumentMoniker": "D:\\\u8FC5\u96F7\u4E0B\u8F7D\\AR Organ(1)\\AR Organ\\Assets\\AR Human Organs\\plugins\\I2\\Localization\\Scripts\\Editor\\Localization\\LocalizationEditor_Terms.cs",
+              "RelativeDocumentMoniker": "Assets\\AR Human Organs\\plugins\\I2\\Localization\\Scripts\\Editor\\Localization\\LocalizationEditor_Terms.cs",
+              "ToolTip": "D:\\\u8FC5\u96F7\u4E0B\u8F7D\\AR Organ(1)\\AR Organ\\Assets\\AR Human Organs\\plugins\\I2\\Localization\\Scripts\\Editor\\Localization\\LocalizationEditor_Terms.cs",
+              "RelativeToolTip": "Assets\\AR Human Organs\\plugins\\I2\\Localization\\Scripts\\Editor\\Localization\\LocalizationEditor_Terms.cs",
+              "ViewState": "AQIAACcBAAAAAAAAAAAAACcBAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T11:42:54.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EditorTools.cs",
+              "DocumentMoniker": "D:\\\u8FC5\u96F7\u4E0B\u8F7D\\AR Organ(1)\\AR Organ\\Assets\\AR Human Organs\\plugins\\I2\\Localization\\Scripts\\Editor\\EditorTools.cs",
+              "RelativeDocumentMoniker": "Assets\\AR Human Organs\\plugins\\I2\\Localization\\Scripts\\Editor\\EditorTools.cs",
+              "ToolTip": "D:\\\u8FC5\u96F7\u4E0B\u8F7D\\AR Organ(1)\\AR Organ\\Assets\\AR Human Organs\\plugins\\I2\\Localization\\Scripts\\Editor\\EditorTools.cs",
+              "RelativeToolTip": "Assets\\AR Human Organs\\plugins\\I2\\Localization\\Scripts\\Editor\\EditorTools.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T11:42:54.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AR_object_control.cs",
+              "DocumentMoniker": "D:\\\u8FC5\u96F7\u4E0B\u8F7D\\AR Organ(1)\\AR Organ\\Assets\\AR Human Organs\\scripts\\Dinosaur\\AR_object_control.cs",
+              "RelativeDocumentMoniker": "Assets\\AR Human Organs\\scripts\\Dinosaur\\AR_object_control.cs",
+              "ToolTip": "D:\\\u8FC5\u96F7\u4E0B\u8F7D\\AR Organ(1)\\AR Organ\\Assets\\AR Human Organs\\scripts\\Dinosaur\\AR_object_control.cs",
+              "RelativeToolTip": "Assets\\AR Human Organs\\scripts\\Dinosaur\\AR_object_control.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAA3wJwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T11:42:54.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main_ui_control.cs",
+              "DocumentMoniker": "D:\\\u8FC5\u96F7\u4E0B\u8F7D\\AR Organ(1)\\AR Organ\\Assets\\AR Human Organs\\scripts\\Main_ui_control.cs",
+              "RelativeDocumentMoniker": "Assets\\AR Human Organs\\scripts\\Main_ui_control.cs",
+              "ToolTip": "D:\\\u8FC5\u96F7\u4E0B\u8F7D\\AR Organ(1)\\AR Organ\\Assets\\AR Human Organs\\scripts\\Main_ui_control.cs",
+              "RelativeToolTip": "Assets\\AR Human Organs\\scripts\\Main_ui_control.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAlwD4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T11:42:54.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dissolve.cs",
+              "DocumentMoniker": "D:\\\u8FC5\u96F7\u4E0B\u8F7D\\AR Organ(1)\\AR Organ\\Assets\\AR Human Organs\\scripts\\Dinosaur\\Dissolve.cs",
+              "RelativeDocumentMoniker": "Assets\\AR Human Organs\\scripts\\Dinosaur\\Dissolve.cs",
+              "ToolTip": "D:\\\u8FC5\u96F7\u4E0B\u8F7D\\AR Organ(1)\\AR Organ\\Assets\\AR Human Organs\\scripts\\Dinosaur\\Dissolve.cs",
+              "RelativeToolTip": "Assets\\AR Human Organs\\scripts\\Dinosaur\\Dissolve.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAowH4AAAABAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAa0SURBVFhH7VbLbxvHGf/2TS6X5EairAdjag3RDWEbYGQjdpGmiAK06SGB4BTINfWtQJA/oYDcYy5Bzjk5l5wCFC0aJ60FWAJYOC8rVCJLtMBKNBWZryXFx3K5y92dzTcjR8khPflYfavRcmZn5nv9ft8MnMqp/N8L9\u002BQNYRhya2trAkxBpOW0hAcHD7hitwiVSoV97\u002BKj42PoBtiTtndudG78wZ8/8Oi3r8OvJbEuyvv1felW8Rbsm/vec9Zz3ts33yYXmhci6wfrwureKhQeFIIpmHLWb64HqDmka3n6jwpVrhu6lkwmF0hILhGF5Lkxl5dUKe/Kbj7KR/OcyuUDOcgnnIQxgEHyyVKYHcwmY3LMiCmxvMRLeUVQjOZUc8KoGJoUkxaIQC5xhLvkCd5CBSrayzdfFp4sBfHJG6jnoRjOQwA3uJDLgg8aG8cYcdRcAQ1mNrOxAgjwL/xVoN2oH83ZY/sP\u002BP0lzsfZhCugIYXkVLIe\u002BuEN7GfpPMKRsgzyhy1olbFr0TGWgu3K9mzH6\u002BSO7KOrTat5vdFvZPCtmrZJU8Nm8RwPuCnEpBiIgvhJRI58/M7SOwWqfKezs1TtVF\u002BpdCqXV8ur0LAaGwInbFxJXzGvZa5drxxVMlv1LcBWRfP\u002Bju0LSZBKpb\u002BUaiwCPdLL2K7924E7\u002BD1OyqI3NLxiSk0FqVjKURU1wAUhjYQf\u002BIAp4jDckuzKqVAJf9MZdq6V2\u002BXsTmNH7zpdcD03i1PlneaO5RHPGDiDidawRSPIhxAucRzne\u002BD1UEeNYaBjdWaPnKPL3VH3pepRNdW22xIqDIxnDOvC9IX/Xp67vHX17NXNxfTipjFpbKb19H46nh5Eo1EFjZpBJam\u002B01dbdgtc34UgDNQgCFJDZzjbGDQiHafDj7wRVR5BdTOEJymMrEp1MzCcf/187rB7\u002BDyGLtcb9WD\u002BmXlAZfYLz76wj57ekkTpHzzP/zsk4ZpFrDWf87\u002BURXkvHUu3OZF75PkejdTETHwmUx/UYRyMN1RJvfPq\u002BVcLyxeXDT2iJ9zA9ev9\u002Bj56f0vghVXBF3bb622bpWC3uUtfgEpAUzTQZK0WV\u002BKl6eT0l7j5547rVB3i2KKI032AMTf2bLA9XddJs9ksn0mcqcqC3MfUALKBYqWPaau\u002Bdum1R7PxWcsaWwGmiHLO4oEvC55Q1eY0moJjGj7uPoaW1QLMFSQiCVBEpeoFXiEhJ/45qU6Wc5lca/HcYpe2Nxbf6L71/FvDNy\u002B\u002B6a3BGl3OBD1jGDnuQIi9Y86cVJpfFmYA5hx6bg8c3wH0HBDB9Wa/uZFIJArYTNycFZyfCyoXfuS5OTDPHnQPktgAAQye5yXRmcztndvZb2vfaof9Q6Hv9gUgoGGUsoEUZAaPj\u002BsIS0GAD6UbbaiMGgCCcFIrflFohZOmpHnKc1T863uP7mU3a5tQ69dg6A1ziPjUp6VPneJh0cD8RxDgOIR1BuBPAQmmCZBP8HeBRYB6rYoqIPLBci3ojDrQHDTpp/8pvu\u002BT0WjkYgzruM7E1NlIW5o\u002B6oCNDpiIh/p0fNpBEJKoFCWYIgeX1vmQb3MSZ9N9WAQQKAyAiE5AOsHQHYoYidjK31Z0wzCAPlToedDtdsEcm9792v3wyq\u002BumFj5/qNHdTk7mVVFTkxgAaOpLNNCdPHMRVqI9L2jPYLUBGTBARqxjlvdl0Cq0T2ZAQuTC\u002BATH8ZkzDxHACYVSTHOxs/mVU\u002BFUAuBMiDmx6Af60NSTZq7g93GcmLZxOWFTr8D07FpZUKdEL75/hvAfN/TFb3w/vX3a7jnzJ2Hd9q0qm41t8pIv89QeXl7ZZuVYmbAi8aLgFRhYDzsHQIWjVxEiuiIjd9RZDN8kOOGdR3Q60JEjJycBSKIJYxgF0O7ygkcEEJMHDMRjA6G\u002BkOMpkbXib5ojWFcmYM5mgomzICJ6ERN5MUNrGiT6WQ6hzhQEYbn0KBnH5oPQe2pgDxnC2iUUA5RyclpGI/He3vDvREq\u002BD4CEUAlXuxM7KRO4BQBJMA/KaDK2XH81\u002BO1jKVfbX812w7auZ7Tu4qUuW4OzQzWd5VWRcoGzC09gBjAaJ1AY2/j2Ecrr69QJD\u002BVnJSJu1t3NSKRBfTsRrlVPl9qlLRSvcQYQfFBGZKMJmFenwdN0gqIkc/e/eO7LAVPIz8ZcPeuiBcebSyNDTw\u002Bte36tkgNMB2TUg4w54B0YjciRVVMEe9A7y2/R0H4VHJyI1paWgqQZRZeGMrgwHeIjiLSqeiLfhHTWnREh/Vpk4bSvjVnsVp\u002BKqdyKk8nAD8AxKttxj7Y0WEAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-04-27T11:42:54.788Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
