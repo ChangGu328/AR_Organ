@@ -1,0 +1,1047 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f0b0c553be8edd4682e9180fdd13e37, type: 3}
+  m_Name: I2Languages
+  m_EditorClassIdentifier: 
+  mSource:
+    UserAgreesToHaveItOnTheScene: 0
+    UserAgreesToHaveItInsideThePluginsFolder: 0
+    GoogleLiveSyncIsUptoDate: 1
+    mTerms:
+    - Term: App_Name
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0627\u0644\u0623\u0639\u0636\u0627\u0621 \u0627\u0644\u0628\u0634\u0631\u064A\u0629
+        AR"
+      - AR Human Organs
+      - AR Organes humains
+      - AR Menschliche Organe
+      - "AR\u4EBA\u9593\u306E\u81D3\u5668"
+      - "AR \uC778\uAC04 \uC7A5\uAE30"
+      - "RA \xD3rg\xE3os Humanos"
+      - "AR \u0427\u0435\u043B\u043E\u0432\u0435\u0447\u0435\u0441\u043A\u0438\u0435
+        \u043E\u0440\u0433\u0430\u043D\u044B"
+      - "AR \xD3rganos Humanos"
+      - "AR \u4EBA\u4F53\u5668\u5B98"
+      - "AR C\u01A1 quan c\u1EE7a con ng\u01B0\u1EDDi"
+      - AR Organi Umani
+      - "AR \u4EBA\u9AD4\u5668\u5B98"
+      Flags: 00000000000000000000000000
+      Languages_Touch: []
+    - Term: "\u63D0\u793A"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0645\u0648\u062C\u0647"
+      - Prompt
+      - Rapide
+      - Aufforderung
+      - "\u30D7\u30ED\u30F3\u30D7\u30C8"
+      - "\uD504\uB86C\uD504\uD2B8"
+      - Prompt
+      - "\u043F\u043E\u0434\u0441\u043A\u0430\u0437\u043A\u0430"
+      - Pronto
+      - "\u63D0\u793A"
+      - "Nh\u1EAFc"
+      - sollecito
+      - "\u63D0\u793A"
+      Flags: 00000000000000000000000000
+      Languages_Touch: []
+    - Term: "\u53D6\u6D88"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0625\u0644\u063A\u0627\u0621 \u0627\u0644\u0623\u0645\u0631"
+      - Cancel
+      - Annuler
+      - Abbrechen
+      - "\u30AD\u30E3\u30F3\u30BB\u30EB"
+      - "\uCDE8\uC18C"
+      - Cancelar
+      - "\u041E\u0442\u043C\u0435\u043D\u0430"
+      - Cancelar
+      - "\u53D6\u6D88"
+      - "H\u1EE7y b\u1ECF"
+      - Annulla
+      - "\u53D6\u6D88"
+      Flags: 00000000000000000000000000
+      Languages_Touch: []
+    - Term: "\u5BF9\u4E0D\u8D77\uFF0C\u51FA\u73B0\u7F51\u7EDC\u95EE\u9898\uFF0C\u8BF7\u7A0D\u540E\u518D\u8BD5"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0647\u0646\u0627\u0643 \u0634\u064A\u0621 \u062E\u0627\u0637\u0626. \u0627\u0644\u0631\u062C\u0627\u0621
+        \u0627\u0644\u0645\u062D\u0627\u0648\u0644\u0629 \u0644\u0627\u062D\u0642\u0627"
+      - Ops, something is wrong . Please try later
+      - "Quelque chose ne va pas . S\u2019il vous pla\xEEt essayer plus tard"
+      - "Irgendetwas stimmt nicht . Bitte versuchen Sie es sp\xE4ter"
+      - "\u4F55\u304B\u304C\u9593\u9055\u3063\u3066\u3044\u308B.\u5F8C\u3067\u8A66\u3057\u3066\u307F\u3066\u304F\u3060\u3055\u3044"
+      - "\uBB54\uAC00 \uC798\uBABB\uB418\uC5C8\uC2B5\uB2C8\uB2E4. \uB098\uC911\uC5D0
+        \uC2DC\uB3C4\uD558\uC2ED\uC2DC\uC624."
+      - "Algo est\xE1 errado. Por favor, tente mais tarde."
+      - "\u0427\u0442\u043E-\u0442\u043E \u0437\u0434\u0435\u0441\u044C \u043D\u0435
+        \u0442\u0430\u043A. \u041F\u043E\u0436\u0430\u043B\u0443\u0439\u0441\u0442\u0430,
+        \u043F\u043E\u043F\u0440\u043E\u0431\u0443\u0439\u0442\u0435 \u043F\u043E\u0437\u0436\u0435"
+      - "Algo anda mal. Por favor, int\xE9ntelo m\xE1s tarde"
+      - "\u5BF9\u4E0D\u8D77\uFF0C\u51FA\u73B0\u7F51\u7EDC\u95EE\u9898\uFF0C\u8BF7\u7A0D\u540E\u518D\u8BD5"
+      - "C\xF3 g\xEC \u0111\xF3 kh\xF4ng \u1ED5n. Vui l\xF2ng th\u1EED sau"
+      - "C'\xE8 qualcosa che non va. Prova pi\xF9 tardi"
+      - "\u5C0D\u4E0D\u8D77\uFF0C\u51FA\u73FE\u7DB2\u8DEF\u554F\u984C\uFF0C\u8ACB\u7A0D\u5F8C\u518D\u8A66"
+      Flags: 00000000000000000000000000
+      Languages_Touch: []
+    - Term: "\u786E\u5B9A"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0623\u0643\u062F"
+      - Confirm
+      - confirmer
+      - "Best\xE4tigen"
+      - "\u78BA\u8A8D\u3059\u308B"
+      - "\uD655\uC778\uD558\uB2E4"
+      - confirmar
+      - "\u043F\u043E\u0434\u0442\u0432\u0435\u0440\u0436\u0434\u0430\u0442\u044C"
+      - confirmar
+      - "\u786E\u8BA4"
+      - "X\xE1c nh\u1EADn"
+      - confermare
+      - "\u78BA\u8A8D"
+      Flags: 00000000000000000000000000
+      Languages_Touch: []
+    - Term: "\u89C2\u770B\u5E7F\u544A\u6210\u529F"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u062A\u0647\u0627\u0646\u064A\u0646\u0627\u060C \u064A\u0645\u0643\u0646\u0643
+        \u0645\u0648\u0627\u0635\u0644\u0629 \u0627\u0644\u0644\u0639\u0628\u0629
+        \u0627\u0644\u0622\u0646"
+      - Congratulations, you can continue the game now
+      - "F\xE9licitations, vous pouvez continuer le jeu maintenant"
+      - "Herzlichen Gl\xFCckwunsch, Sie k\xF6nnen das Spiel jetzt fortsetzen"
+      - "\u304A\u3081\u3067\u3068\u3046\u3054\u3056\u3044\u307E\u3059\u3001\u3042\u306A\u305F\u306F\u4ECA\u30B2\u30FC\u30E0\u3092\u7D9A\u3051\u308B\u3053\u3068\u304C\u3067\u304D\u307E\u3059"
+      - "\uCD95\uD558\uD569\uB2C8\uB2E4, \uB2F9\uC2E0\uC740 \uC9C0\uAE08 \uAC8C\uC784\uC744
+        \uACC4\uC18D \uD560 \uC218 \uC788\uC2B5\uB2C8\uB2E4"
+      - "Parab\xE9ns, voc\xEA pode continuar o jogo agora."
+      - "\u041F\u043E\u0437\u0434\u0440\u0430\u0432\u043B\u044F\u0435\u043C, \u0432\u044B
+        \u043C\u043E\u0436\u0435\u0442\u0435 \u043F\u0440\u043E\u0434\u043E\u043B\u0436\u0438\u0442\u044C
+        \u0438\u0433\u0440\u0443 \u0441\u0435\u0439\u0447\u0430\u0441"
+      - Felicitaciones, puedes continuar el juego ahora
+      - "\u606D\u559C\u4F60\uFF0C\u4F60\u73B0\u5728\u53EF\u4EE5\u7EE7\u7EED\u6E38\u620F\u4E86"
+      - "Xin ch\xFAc m\u1EEBng, b\u1EA1n c\xF3 th\u1EC3 ti\u1EBFp t\u1EE5c tr\xF2
+        ch\u01A1i ngay b\xE2y gi\u1EDD"
+      - Congratulazioni, puoi continuare il gioco ora
+      - "\u606D\u559C\u4F60\uFF0C\u4F60\u73FE\u5728\u53EF\u4EE5\u7E7C\u7E8C\u904A\u6232\u4E86"
+      Flags: 00000000000000000000000000
+      Languages_Touch: []
+    - Term: record
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0633\u062C\u0644"
+      - Record
+      - enregistrer
+      - Aufzeichnung
+      - "\u30EC\u30B3\u30FC\u30C9"
+      - "\uB808\uCF54\uB4DC"
+      - Registro
+      - "\u0417\u0430\u043F\u0438\u0441\u0438"
+      - grabar
+      - "\u8BB0\u5F55"
+      - "Ghi l\u1EA1i"
+      - Registrazione
+      - "\u8A18\u9304"
+      Flags: 00000000000000000000000000
+      Languages_Touch: []
+    - Term: Touch to start the game
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0627\u0644\u0645\u0633 \u0644\u0628\u062F\u0621 \u0627\u0644\u0644\u0639\u0628\u0629"
+      - Touch to start the game
+      - Touchez pour commencer le jeu
+      - "Ber\xFChren Sie, um das Spiel zu starten"
+      - "\u30BF\u30C3\u30C1\u3057\u3066\u30B2\u30FC\u30E0\u3092\u958B\u59CB\u3059\u308B"
+      - "\uAC8C\uC784\uC744 \uC2DC\uC791\uD558\uB824\uBA74 \uD130\uCE58"
+      - "Toque para come\xE7ar o jogo"
+      - "\u041F\u0440\u0438\u043A\u043E\u0441\u043D\u043E\u0432\u0435\u043D\u0438\u0435,
+        \u0447\u0442\u043E\u0431\u044B \u043D\u0430\u0447\u0430\u0442\u044C \u0438\u0433\u0440\u0443"
+      - Toque para iniciar el juego
+      - "\u89E6\u6478, \u5F00\u59CB\u6E38\u620F"
+      - "Ch\u1EA1m \u0111\u1EC3 b\u1EAFt \u0111\u1EA7u tr\xF2 ch\u01A1i"
+      - Tocca per iniziare il gioco
+      - "\u89F8\u6478, \u958B\u59CB\u904A\u6232"
+      Flags: 00000000000000000000000000
+      Languages_Touch: []
+    - Term: Touch to restart game
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0644\u0645\u0633 \u0644\u0625\u0639\u0627\u062F\u0629 \u062A\u0634\u063A\u064A\u0644
+        \u0627\u0644\u0644\u0639\u0628\u0629"
+      - Touch to restart game
+      - "Touchez pour red\xE9marrer le jeu"
+      - Touch, um das Spiel neu zu starten
+      - "\u30B2\u30FC\u30E0\u3092\u518D\u8D77\u52D5\u3059\u308B\u306B\u306F\u30BF\u30C3\u30C1"
+      - "\uAC8C\uC784\uC744 \uB2E4\uC2DC \uC2DC\uC791\uD558\uB824\uBA74 \uD130\uCE58"
+      - Toque para reiniciar o jogo
+      - "\u041F\u0440\u0438\u043A\u043E\u0441\u043D\u043E\u0432\u0435\u043D\u0438\u0435
+        \u043A \u043F\u0435\u0440\u0435\u0437\u0430\u043F\u0443\u0441\u043A\u0443
+        \u0438\u0433\u0440\u044B"
+      - Toque para reiniciar el juego
+      - "\u89E6\u6478\u4E00\u4E0B, \u91CD\u65B0\u542F\u52A8\u6E38\u620F"
+      - "Ch\u1EA1m \u0111\u1EC3 kh\u1EDFi \u0111\u1ED9ng l\u1EA1i tr\xF2 ch\u01A1i"
+      - Tocco per riavviare il gioco
+      - "\u89F8\u63A7\u4E00\u4E0B, \u91CD\u65B0\u555F\u52D5\u904A\u6232"
+      Flags: 00000000000000000000000000
+      Languages_Touch: []
+    - Term: Click to start ar scan
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0627\u0646\u0642\u0631 \u0644\u0644\u062F\u062E\u0648\u0644 \u0625\u0644\u0649
+        \u0644\u0639\u0628\u0629 AR"
+      - Click to enter the AR game
+      - Cliquez pour entrer dans le jeu AR
+      - Klicke hier, um das AR-Spiel zu betreten
+      - "\u30AF\u30EA\u30C3\u30AF\u3057\u3066AR\u30B2\u30FC\u30E0\u306B\u5165\u308A\u307E\u3059"
+      - "\uD074\uB9AD\uD558\uC5EC AR \uAC8C\uC784\uC5D0 \uC785\uC7A5\uD558\uC138\uC694."
+      - Clique para entrar no jogo de RA
+      - "\u041D\u0430\u0436\u043C\u0438\u0442\u0435, \u0447\u0442\u043E\u0431\u044B
+        \u0432\u043E\u0439\u0442\u0438 \u0432 \u0438\u0433\u0440\u0443 \u0441 \u0434\u043E\u043F\u043E\u043B\u043D\u0435\u043D\u043D\u043E\u0439
+        \u0440\u0435\u0430\u043B\u044C\u043D\u043E\u0441\u0442\u044C\u044E"
+      - Haga clic para ingresar al juego AR
+      - "\u70B9\u51FB\u8FDB\u5165 AR \u6E38\u620F"
+      - "Nh\u1EA5p v\xE0o v\xE0o tr\xF2 ch\u01A1i AR"
+      - Clicca per entrare nel gioco AR
+      - "\u9EDE\u64CA\u9032\u5165AR\u904A\u6232"
+      Flags: 00000000000000000000000000
+      Languages_Touch: []
+    - Term: AR_warning
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0643\u0646 \u062D\u0630\u0631\u0627 \u0645\u0646 \u0627\u0644\u0622\u062E\u0631\u064A\u0646
+        \u0639\u0646\u062F \u0644\u0639\u0628 \u0623\u0644\u0639\u0627\u0628 \u0627\u0644\u0648\u0627\u0642\u0639
+        \u0627\u0644\u0645\u0639\u0632\u0632 \u0648\u0643\u0646 \u0639\u0644\u0649
+        \u062F\u0631\u0627\u064A\u0629 \u0628\u0645\u062D\u064A\u0637\u0643"
+      - Be careful of other people when playing AR games and be aware of your surroundings
+      - "Faites attention aux autres lorsque vous jouez \xE0 des jeux AR et soyez
+        conscient de votre environnement"
+      - Achten Sie beim Spielen von AR-Spielen auf andere Personen und achten Sie
+        auf Ihre Umgebung
+      - "AR\u30B2\u30FC\u30E0\u3092\u30D7\u30EC\u30A4\u3059\u308B\u3068\u304D\u306F\u4ED6\u306E\u4EBA\u306B\u6CE8\u610F\u3057\u3001\u5468\u56F2\u306B\u6CE8\u610F\u3057\u3066\u304F\u3060\u3055\u3044"
+      - "AR \uAC8C\uC784\uC744 \uD560 \uB54C \uB2E4\uB978 \uC0AC\uB78C\uC744 \uC870\uC2EC\uD558\uACE0
+        \uC8FC\uBCC0 \uD658\uACBD\uC5D0 \uC8FC\uC758\uD558\uC2ED\uC2DC\uC624."
+      - Tenha cuidado com outras pessoas ao jogar jogos de RA e esteja ciente do
+        seu entorno
+      - "\u0411\u0443\u0434\u044C\u0442\u0435 \u043E\u0441\u0442\u043E\u0440\u043E\u0436\u043D\u044B
+        \u0441 \u0434\u0440\u0443\u0433\u0438\u043C\u0438 \u043B\u044E\u0434\u044C\u043C\u0438,
+        \u0438\u0433\u0440\u0430\u044F \u0432 \u0438\u0433\u0440\u044B \u0441 \u0434\u043E\u043F\u043E\u043B\u043D\u0435\u043D\u043D\u043E\u0439
+        \u0440\u0435\u0430\u043B\u044C\u043D\u043E\u0441\u0442\u044C\u044E, \u0438
+        \u0431\u0443\u0434\u044C\u0442\u0435 \u0432 \u043A\u0443\u0440\u0441\u0435
+        \u0442\u043E\u0433\u043E, \u0447\u0442\u043E \u0432\u0430\u0441 \u043E\u043A\u0440\u0443\u0436\u0430\u0435\u0442"
+      - Tenga cuidado con otras personas cuando juegue juegos de AR y sea consciente
+        de su entorno
+      - "\u73A9AR\u6E38\u620F\u65F6\u8981\u5F53\u5FC3\u5176\u4ED6\u4EBA\uFF0C\u5E76\u6CE8\u610F\u67E5\u770B\u5468\u56F4\u7684\u73AF\u5883\u54E6"
+      - "H\xE3y c\u1EA9n th\u1EADn v\u1EDBi nh\u1EEFng ng\u01B0\u1EDDi kh\xE1c khi
+        ch\u01A1i tr\xF2 ch\u01A1i AR v\xE0 ch\xFA \xFD \u0111\u1EBFn vi\u1EC7c ki\u1EC3m
+        tra m\xF4i tr\u01B0\u1EDDng xung quanh oh"
+      - "Fai attenzione alle altre persone quando giochi ai giochi AR e sii consapevole
+        di ci\xF2 che ti circonda"
+      - "\u73A9AR\u904A\u6232\u6642\u8981\u7576\u5FC3\u5176\u4ED6\u4EBA\uFF0C\u4E26\u6CE8\u610F\u67E5\u770B\u5468\u570D\u7684\u74B0\u5883\u54E6"
+      Flags: 00000000000000000000000000
+      Languages_Touch: []
+    - Term: device not support AR
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0639\u0630\u0631\u0627\u060C \u062C\u0647\u0627\u0632\u0643 \u0644\u0627
+        \u064A\u062F\u0639\u0645 \u0648\u0638\u064A\u0641\u0629 AR\u060C \u064A\u0631\u062C\u0649
+        \u0627\u0633\u062A\u0628\u062F\u0627\u0644 \u0645\u0639 \u062C\u0647\u0627\u0632
+        \u0622\u062E\u0631"
+      - Sorry, your device does not support AR function, please replace with another
+        device
+      - "D\xE9sol\xE9, votre appareil ne prend pas en charge la fonction AR, s\u2019il
+        vous pla\xEEt remplacer par un autre appareil"
+      - "Ihr Ger\xE4t unterst\xFCtzt leider keine AR-Funktion, bitte ersetzen Sie
+        es durch ein anderes Ger\xE4t"
+      - "\u304A\u4F7F\u3044\u306E\u30C7\u30D0\u30A4\u30B9\u306FAR\u6A5F\u80FD\u3092\u30B5\u30DD\u30FC\u30C8\u3057\u3066\u3044\u307E\u305B\u3093\u3001\u5225\u306E\u30C7\u30D0\u30A4\u30B9\u3068\u4EA4\u63DB\u3057\u3066\u304F\u3060\u3055\u3044"
+      - "\uC8C4\uC1A1\uD569\uB2C8\uB2E4, \uB2F9\uC2E0\uC758 \uC7A5\uCE58\uB294 AR
+        \uAE30\uB2A5\uC744 \uC9C0\uC6D0\uD558\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4, \uB2E4\uB978
+        \uC7A5\uCE58\uB85C \uAD50\uCCB4\uD558\uC2DC\uAE30 \uBC14\uB78D\uB2C8\uB2E4"
+      - "Desculpe, seu dispositivo n\xE3o suporta fun\xE7\xE3o AR, por favor substitua
+        por outro dispositivo"
+      - "\u041A \u0441\u043E\u0436\u0430\u043B\u0435\u043D\u0438\u044E, \u0432\u0430\u0448\u0435
+        \u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u043E \u043D\u0435
+        \u043F\u043E\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0435\u0442
+        \u0444\u0443\u043D\u043A\u0446\u0438\u044E AR, \u043F\u043E\u0436\u0430\u043B\u0443\u0439\u0441\u0442\u0430,
+        \u0437\u0430\u043C\u0435\u043D\u0438\u0442\u0435 \u0441 \u0434\u0440\u0443\u0433\u0438\u043C
+        \u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u043E\u043C"
+      - "Lo sentimos, su dispositivo no es compatible con la funci\xF3n de realidad
+        aumentada, por favor reemplace con otro dispositivo"
+      - "\u5F88\u62B1\u6B49\uFF0C\u60A8\u7684\u8BBE\u5907\u4E0D\u652F\u6301AR\u529F\u80FD\uFF0C\u8BF7\u66FF\u6362\u4E3A\u5176\u4ED6\u8BBE\u5907"
+      - "R\u1EA5t ti\u1EBFc, thi\u1EBFt b\u1ECB c\u1EE7a b\u1EA1n kh\xF4ng h\u1ED7
+        tr\u1EE3 ch\u1EE9c n\u0103ng AR, vui l\xF2ng thay th\u1EBF b\u1EB1ng thi\u1EBFt
+        b\u1ECB kh\xE1c"
+      - Siamo spiacenti, il dispositivo non supporta la funzione AR, sostituire con
+        un altro dispositivo
+      - "\u5F88\u62B1\u6B49\uFF0C\u60A8\u7684\u8A2D\u5099\u4E0D\u652F\u63F4AR\u529F\u80FD\uFF0C\u8ACB\u66FF\u63DB\u70BA\u5176\u4ED6\u8A2D\u5099"
+      Flags: 00000000000000000000000000
+      Languages_Touch: []
+    - Term: Please scan the a plane until yellow circles appears
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0645\u0633\u062D \u0627\u0644\u0633\u0637\u062D \u0627\u0644\u0645\u0633\u062A\u0648\u064A
+        \u0636\u0648\u0626\u064A\u0627 \u062D\u062A\u0649 \u064A\u0638\u0647\u0631
+        \u0645\u0631\u0628\u0639 \u0623\u0635\u0641\u0631"
+      - Scan the flat surface until a yellow box appears
+      - "Num\xE9risez la surface plane jusqu\u2019\xE0 ce qu\u2019une bo\xEEte jaune
+        apparaisse"
+      - "Scannen Sie die flache Oberfl\xE4che, bis ein gelbes K\xE4stchen erscheint"
+      - "\u9EC4\u8272\u306E\u30DC\u30C3\u30AF\u30B9\u304C\u8868\u793A\u3055\u308C\u308B\u307E\u3067\u5E73\u3089\u306A\u9762\u3092\u30B9\u30AD\u30E3\u30F3\u3057\u307E\u3059"
+      - "\uB178\uB780\uC0C9 \uC0C1\uC790\uAC00 \uB098\uD0C0\uB0A0 \uB54C\uAE4C\uC9C0
+        \uD3C9\uD3C9\uD55C \uD45C\uBA74\uC744 \uC2A4\uCE94\uD569\uB2C8\uB2E4"
+      - "Escaneie a superf\xEDcie plana at\xE9 que uma caixa amarela apare\xE7a"
+      - "\u0421\u043A\u0430\u043D\u0438\u0440\u0443\u0439\u0442\u0435 \u043F\u043B\u043E\u0441\u043A\u0443\u044E
+        \u043F\u043E\u0432\u0435\u0440\u0445\u043D\u043E\u0441\u0442\u044C, \u043F\u043E\u043A\u0430
+        \u043D\u0435 \u043F\u043E\u044F\u0432\u0438\u0442\u0441\u044F \u0436\u0435\u043B\u0442\u0430\u044F
+        \u0440\u0430\u043C\u043A\u0430"
+      - Escanear la superficie plana hasta que aparezca un cuadro amarillo
+      - "\u8BF7\u626B\u63CF\u5E73\u9762\uFF0C\u76F4\u5230\u51FA\u73B0\u9EC4\u8272\u65B9\u6846"
+      - "Qu\xE9t m\u1EB7t ph\u1EB3ng cho \u0111\u1EBFn khi h\u1ED9p m\xE0u v\xE0ng
+        xu\u1EA5t hi\u1EC7n"
+      - Eseguire la scansione della superficie piana fino a quando non viene visualizzata
+        una casella gialla
+      - "\u8ACB\u6383\u63CF\u5E73\u9762\uFF0C\u76F4\u5230\u51FA\u73FE\u9EC3\u8272\u65B9\u6846"
+      Flags: 00000000000000000000000000
+      Languages_Touch: []
+    - Term: "\u89C2\u770B\u5E7F\u544A\u53EF\u89E3\u9501\u7269\u4F53"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0645\u0634\u0627\u0647\u062F\u0629 \u0627\u0644\u0625\u0639\u0644\u0627\u0646
+        \u064A\u0641\u062A\u062D \u0627\u0644\u0639\u0636\u0648 \u0627\u0644\u0628\u0634\u0631\u064A"
+      - Watching the ad unlocks the human organ
+      - "Regarder la publicit\xE9 d\xE9verrouille l\u2019organe humain"
+      - Wenn man sich die Werbung ansieht, wird das menschliche Organ freigeschaltet
+      - "\u5E83\u544A\u3092\u898B\u308B\u3068\u4EBA\u9593\u306E\u81D3\u5668\u306E\u30ED\u30C3\u30AF\u304C\u89E3\u9664\u3055\u308C\u307E\u3059"
+      - "\uAD11\uACE0\uB97C \uBCF4\uBA74 \uC778\uAC04\uC758 \uC7A5\uAE30\uAC00 \uC7A0\uAE08
+        \uD574\uC81C\uB429\uB2C8\uB2E4"
+      - "Assistir ao an\xFAncio desbloqueia o \xF3rg\xE3o humano"
+      - "\u041F\u0440\u043E\u0441\u043C\u043E\u0442\u0440 \u0440\u0435\u043A\u043B\u0430\u043C\u044B
+        \u043E\u0442\u043A\u0440\u044B\u0432\u0430\u0435\u0442 \u0447\u0435\u043B\u043E\u0432\u0435\u0447\u0435\u0441\u043A\u0438\u0439
+        \u043E\u0440\u0433\u0430\u043D"
+      - "Ver el anuncio desbloquea el \xF3rgano humano"
+      - "\u89C2\u770B\u5E7F\u544A\u53EF\u4EE5\u89E3\u9501\u8BE5\u4EBA\u4F53\u5668\u5B98\u54E6"
+      - "Xem qu\u1EA3ng c\xE1o c\xF3 th\u1EC3 m\u1EDF kh\xF3a c\u01A1 quan c\u1EE7a
+        con ng\u01B0\u1EDDi oh"
+      - Guardare l'annuncio sblocca l'organo umano
+      - "\u89C0\u770B\u5EE3\u544A\u53EF\u4EE5\u89E3\u9396\u8A72\u4EBA\u9AD4\u5668\u5B98\u54E6"
+      Flags: 00000000000000000000000000
+      Languages_Touch: []
+    - Term: "\u89E3\u9501\u6210\u529F"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0641\u062A\u062D \u0646\u0627\u062C\u062D"
+      - Unlock successful
+      - "D\xE9verrouillage r\xE9ussi"
+      - Erfolgreich freischalten
+      - "\u30ED\u30C3\u30AF\u89E3\u9664\u306B\u6210\u529F\u3057\u307E\u3057\u305F"
+      - "\uC7A0\uAE08 \uD574\uC81C \uC131\uACF5"
+      - Desbloqueie com sucesso
+      - "\u0420\u0430\u0437\u0431\u043B\u043E\u043A\u0438\u0440\u043E\u0432\u043A\u0430
+        \u0443\u0441\u043F\u0435\u0448\u043D\u0430"
+      - Desbloqueo exitoso
+      - "\u89E3\u9501\u6210\u529F"
+      - "M\u1EDF kh\xF3a th\xE0nh c\xF4ng"
+      - Sblocca con successo
+      - "\u89E3\u9396\u6210\u529F"
+      Flags: 00000000000000000000000000
+      Languages_Touch: []
+    - Term: "\u89C2\u770B\u5E7F\u544A"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0645\u0634\u0627\u0647\u062F\u0629 \u0627\u0644\u0625\u0639\u0644\u0627\u0646\u0627\u062A"
+      - Watch ads
+      - "Regarder des publicit\xE9s"
+      - Werbung ansehen
+      - "\u5E83\u544A\u3092\u898B\u308B"
+      - "\uAD11\uACE0 \uBCF4\uAE30"
+      - "Ver an\xFAncios"
+      - "\u0421\u043C\u043E\u0442\u0440\u0435\u0442\u044C \u0440\u0435\u043A\u043B\u0430\u043C\u0443"
+      - Ver anuncios
+      - "\u89C2\u770B\u5E7F\u544A"
+      - "Xem qu\u1EA3ng c\xE1o"
+      - Guarda gli annunci
+      - "\u89C0\u770B\u5EE3\u544A"
+      Flags: 00000000000000000000000000
+      Languages_Touch: []
+    - Term: "\u653E\u7F6E\u52A8\u7269"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0648\u0636\u0639 \u0627\u0644\u0623\u0639\u0636\u0627\u0621 \u0627\u0644\u0628\u0634\u0631\u064A\u0629"
+      - Place human organs
+      - Placer des organes humains
+      - Platzieren Sie menschliche Organe
+      - "\u4EBA\u9593\u306E\u81D3\u5668\u3092\u914D\u7F6E\u3059\u308B"
+      - "\uC778\uAC04\uC758 \uC7A5\uAE30 \uBC30\uCE58"
+      - "Colocar \xF3rg\xE3os humanos"
+      - "\u0420\u0430\u0437\u043C\u0435\u0441\u0442\u0438\u0442\u0435 \u0447\u0435\u043B\u043E\u0432\u0435\u0447\u0435\u0441\u043A\u0438\u0435
+        \u043E\u0440\u0433\u0430\u043D\u044B"
+      - "Colocar \xF3rganos humanos"
+      - "\u653E\u7F6E\u4EBA\u4F53\u5668\u5B98"
+      - "\u0110\u1EB7t c\xE1c c\u01A1 quan c\u1EE7a con ng\u01B0\u1EDDi"
+      - Posizionare gli organi umani
+      - "\u653E\u7F6E\u4EBA\u9AD4\u5668\u5B98"
+      Flags: 00000000000000000000000000
+      Languages_Touch: []
+    - Term: "\u8BF7\u626B\u63CF\u5E73\u9762\uFF0C\u76F4\u5230\u51FA\u73B0\u9EC4\u8272\u65B9\u6846"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0645\u0633\u062D \u0627\u0644\u0633\u0637\u062D \u0627\u0644\u0645\u0633\u062A\u0648\u064A
+        \u062D\u062A\u0649 \u062A\u0638\u0647\u0631 \u0627\u0644\u062F\u0627\u0626\u0631\u0629
+        \u0627\u0644\u0635\u0641\u0631\u0627\u0621"
+      - Scan the flat surface until the yellow circle appears
+      - "Balayez la surface plane jusqu\u2019\xE0 ce que le cercle jaune apparaisse"
+      - "Scannen Sie die flache Oberfl\xE4che, bis der gelbe Kreis erscheint"
+      - "\u9EC4\u8272\u306E\u5186\u304C\u8868\u793A\u3055\u308C\u308B\u307E\u3067\u5E73\u3089\u306A\u9762\u3092\u30B9\u30AD\u30E3\u30F3\u3057\u307E\u3059"
+      - "\uB178\uB780\uC0C9 \uC6D0\uC774 \uB098\uD0C0\uB0A0 \uB54C\uAE4C\uC9C0 \uD3C9\uD3C9\uD55C
+        \uD45C\uBA74\uC744 \uC2A4\uCE94\uD569\uB2C8\uB2E4"
+      - "Escaneie a superf\xEDcie plana at\xE9 que o c\xEDrculo amarelo apare\xE7a"
+      - "\u0421\u043A\u0430\u043D\u0438\u0440\u0443\u0439\u0442\u0435 \u043F\u043B\u043E\u0441\u043A\u0443\u044E
+        \u043F\u043E\u0432\u0435\u0440\u0445\u043D\u043E\u0441\u0442\u044C, \u043F\u043E\u043A\u0430
+        \u043D\u0435 \u043F\u043E\u044F\u0432\u0438\u0442\u0441\u044F \u0436\u0435\u043B\u0442\u044B\u0439
+        \u043A\u0440\u0443\u0433"
+      - "Escanear la superficie plana hasta que aparezca un c\xEDrculo amarillo"
+      - "\u8BF7\u626B\u63CF\u5E73\u9762\uFF0C\u76F4\u5230\u9EC4\u8272\u7684\u5708\u5708\u51FA\u73B0"
+      - "Qu\xE9t m\u1EB7t ph\u1EB3ng cho \u0111\u1EBFn khi v\xF2ng tr\xF2n m\xE0u
+        v\xE0ng xu\u1EA5t hi\u1EC7n"
+      - Eseguire la scansione della superficie piana fino a quando non viene visualizzato
+        un cerchio giallo
+      - "\u8ACB\u6383\u63CF\u5E73\u9762\uFF0C\u76F4\u5230\u9EC3\u8272\u7684\u5708\u5708\u51FA\u73FE"
+      Flags: 00000000000000000000000000
+      Languages_Touch: []
+    - Term: "\u5BF9\u4E0D\u8D77\uFF0C\u60A8\u7684\u8BBE\u5907\u4E0D\u652F\u6301AR\u529F\u80FD\uFF0C\u8BF7\u66F4\u6362\u5176\u4ED6\u8BBE\u5907"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0639\u0630\u0631\u0627 \u060C \u062C\u0647\u0627\u0632\u0643 \u0644\u0627
+        \u064A\u062F\u0639\u0645 \u0648\u0638\u064A\u0641\u0629 AR \u060C \u064A\u0631\u062C\u0649
+        \u0627\u0633\u062A\u0628\u062F\u0627\u0644\u0647 \u0628\u062C\u0647\u0627\u0632
+        \u0622\u062E\u0631"
+      - Sorry, your device does not support AR function, please replace it with another
+        device
+      - "D\xE9sol\xE9, votre appareil ne prend pas en charge la fonction AR, veuillez
+        le remplacer par un autre appareil"
+      - "Entschuldigung, Ihr Ger\xE4t unterst\xFCtzt keine AR-Funktion, bitte ersetzen
+        Sie es durch ein anderes Ger\xE4t"
+      - "\u7533\u3057\u8A33\u3042\u308A\u307E\u305B\u3093\u304C\u3001\u304A\u4F7F\u3044\u306E\u30C7\u30D0\u30A4\u30B9\u306FAR\u6A5F\u80FD\u3092\u30B5\u30DD\u30FC\u30C8\u3057\u3066\u3044\u307E\u305B\u3093\u306E\u3067\u3001\u5225\u306E\u30C7\u30D0\u30A4\u30B9\u3068\u4EA4\u63DB\u3057\u3066\u304F\u3060\u3055\u3044"
+      - "\uC8C4\uC1A1\uD558\uC9C0\uB9CC \uADC0\uD558\uC758 \uC7A5\uCE58\uB294 AR
+        \uAE30\uB2A5\uC744 \uC9C0\uC6D0\uD558\uC9C0 \uC54A\uC73C\uBBC0\uB85C \uB2E4\uB978
+        \uC7A5\uCE58\uB85C \uAD50\uCCB4\uD558\uC2ED\uC2DC\uC624."
+      - "Desculpe, seu dispositivo n\xE3o suporta a fun\xE7\xE3o AR, substitua-o
+        por outro dispositivo"
+      - "\u041A \u0441\u043E\u0436\u0430\u043B\u0435\u043D\u0438\u044E, \u0432\u0430\u0448\u0435
+        \u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u043E \u043D\u0435
+        \u043F\u043E\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0435\u0442
+        \u0444\u0443\u043D\u043A\u0446\u0438\u044E AR, \u0437\u0430\u043C\u0435\u043D\u0438\u0442\u0435
+        \u0435\u0433\u043E \u0434\u0440\u0443\u0433\u0438\u043C \u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u043E\u043C"
+      - "Lo sentimos, su dispositivo no es compatible con la funci\xF3n AR, reempl\xE1celo
+        con otro dispositivo"
+      - "\u5BF9\u4E0D\u8D77\uFF0C\u60A8\u7684\u8BBE\u5907\u4E0D\u652F\u6301AR\u529F\u80FD\uFF0C\u8BF7\u66F4\u6362\u5176\u4ED6\u8BBE\u5907"
+      - "R\u1EA5t ti\u1EBFc, thi\u1EBFt b\u1ECB c\u1EE7a b\u1EA1n kh\xF4ng h\u1ED7
+        tr\u1EE3 t\xEDnh n\u0103ng AR, vui l\xF2ng thay th\u1EBF thi\u1EBFt b\u1ECB
+        kh\xE1c"
+      - Siamo spiacenti, il tuo dispositivo non supporta la funzione AR, sostituiscilo
+        con un altro dispositivo
+      - "\u5C0D\u4E0D\u8D77\uFF0C\u60A8\u7684\u8A2D\u5099\u4E0D\u652F\u63F4AR\u529F\u80FD\uFF0C\u8ACB\u66F4\u63DB\u5176\u4ED6\u8A2D\u5099"
+      Flags: 00000000000000000000000000
+      Languages_Touch: []
+    - Term: 0
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0642\u0644\u0628"
+      - Heart
+      - "c\u0153ur"
+      - Herz
+      - "\u5FC3"
+      - "\uC2EC\uC7A5"
+      - "cora\xE7\xE3o"
+      - "\u0441\u0435\u0440\u0434\u0446\u0435"
+      - "coraz\xF3n"
+      - "\u5FC3\u810F"
+      - "Tr\xE1i tim"
+      - cuore
+      - "\u5FC3\u81DF"
+      Flags: 00000000000000000000000000
+      Languages_Touch: []
+    - Term: 1
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0631\u0626\u0629"
+      - Lung
+      - Poumon
+      - Lunge
+      - "\u80BA"
+      - "\uBD80\uC544"
+      - "Pulm\xE3o"
+      - "\u041B\u0435\u0433\u043A\u043E\u0435"
+      - "Pulm\xF3n"
+      - "\u80BA"
+      - "Ph\u1ED5i"
+      - Polmone
+      - "\u80BA"
+      Flags: 00000000000000000000000000
+      Languages_Touch: []
+    - Term: 2
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0647\u064A\u0643\u0644"
+      - Skeleton
+      - Squelette
+      - Skelett
+      - "\u9AB8\u9AA8"
+      - "\uD574\uACE8"
+      - Esqueleto
+      - "\u0421\u043A\u0435\u043B\u0435\u0442"
+      - Esqueleto
+      - "\u9AA8\u67B6"
+      - "C\u1ED1t"
+      - Scheletro
+      - "\u9AA8\u67B6"
+      Flags: 00000000000000000000000000
+      Languages_Touch: []
+    - Term: 3
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0639\u0636\u0644"
+      - Muscle
+      - Muscle
+      - Muskel
+      - "\u7B4B\u8089"
+      - "\uADFC\uC721"
+      - "M\xFAsculo"
+      - "\u041C\u044B\u0448\u0446\u0430"
+      - "M\xFAsculo"
+      - "\u808C\u8089"
+      - "C\u01A1"
+      - Muscolo
+      - "\u808C\u8089"
+      Flags: 00000000000000000000000000
+      Languages_Touch: []
+    - Term: 4
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u062F\u0645\u0627\u063A"
+      - Brain
+      - Cerveau
+      - Gehirn
+      - "\u8133"
+      - "\uB1CC"
+      - "C\xE9rebro"
+      - "\u041C\u043E\u0437\u0433"
+      - Cerebro
+      - "\u8111"
+      - "N\xE3o"
+      - Cervello
+      - "\u8166"
+      Flags: 00000000000000000000000000
+      Languages_Touch: []
+    - Term: 5
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0645\u0639\u062F\u0629"
+      - Stomach
+      - Estomac
+      - Magen
+      - "\u80C3"
+      - "\uC704"
+      - "Est\xF4mago"
+      - "\u0416\u0435\u043B\u0443\u0434\u043E\u043A"
+      - "Est\xF3mago"
+      - "\u80C3"
+      - "B\u1EE5ng"
+      - Stomaco
+      - "\u80C3"
+      Flags: 00000000000000000000000000
+      Languages_Touch: []
+    - Term: 6
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0643\u0628\u062F"
+      - Liver
+      - Foie
+      - Leber
+      - "\u809D\u81D3"
+      - "\uAC04"
+      - "F\xEDgado"
+      - "\u041F\u0435\u0447\u0435\u043D\u044C"
+      - "H\xEDgado"
+      - "\u809D"
+      - Gan
+      - Fegato
+      - "\u809D"
+      Flags: 00000000000000000000000000
+      Languages_Touch: []
+    - Term: 7
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0623\u0633\u0646\u0627\u0646"
+      - Teeth
+      - Dent
+      - "Z\xE4hne"
+      - "\u6B6F"
+      - "\uCE58\uC544"
+      - Dente
+      - "\u0417\u0443\u0431\u044B"
+      - Dientes
+      - "\u7259\u9F7F"
+      - "R\u0103ng"
+      - Denti
+      - "\u7259\u9F52"
+      Flags: 00000000000000000000000000
+      Languages_Touch: []
+    - Term: 8
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0642\u0631\u0628\u0629"
+      - Bladder
+      - Vessie
+      - Blase
+      - "\u8180\u80F1"
+      - "\uBC29\uAD11"
+      - Bexiga
+      - "\u041F\u0443\u0437\u044B\u0440\u044C"
+      - Vejiga
+      - "\u8180\u80F1"
+      - "B\xE0ng quang"
+      - Vescica
+      - "\u8180\u80F1"
+      Flags: 00000000000000000000000000
+      Languages_Touch: []
+    - Term: 9
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0631\u062D\u0645"
+      - Uterus
+      - "Ut\xE9rus"
+      - "Geb\xE4rmutter"
+      - "\u5B50\u5BAE"
+      - "\uC790\uAD81"
+      - "\xDAtero"
+      - "\u041C\u0430\u0442\u043A\u0430"
+      - "\xDAtero"
+      - "\u5B50\u5BAB"
+      - "D\u1EA1 con"
+      - Utero
+      - "\u5B50\u5BAE"
+      Flags: 00000000000000000000000000
+      Languages_Touch: []
+    - Term: 10
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0627\u0644\u0639\u0645\u0648\u062F \u0627\u0644\u0641\u0642\u0631\u064A"
+      - Vertebral Column
+      - "Colonne vert\xE9brale"
+      - "Wirbels\xE4ule"
+      - "\u810A\u690E"
+      - "\uCC99\uC8FC"
+      - Coluna vertebral
+      - "\u041F\u043E\u0437\u0432\u043E\u043D\u043E\u0447\u043D\u0438\u043A"
+      - Columna vertebral
+      - "\u810A\u67F1"
+      - "C\u1ED9t s\u1ED1ng"
+      - Colonna vertebrale
+      - "\u810A\u67F1"
+      Flags: 00000000000000000000000000
+      Languages_Touch: []
+    - Term: 11
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0637\u062D\u0627\u0644"
+      - Spleen
+      - Rate
+      - Milz
+      - "\u813E\u81D3"
+      - "\uC9C0\uB77C"
+      - "Ba\xE7o"
+      - "\u0421\u0435\u043B\u0435\u0437\u0435\u043D\u043A\u0430"
+      - Bazo
+      - "\u813E"
+      - "L\xE1ch"
+      - Milza
+      - "\u813E"
+      Flags: 00000000000000000000000000
+      Languages_Touch: []
+    - Term: 12
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0627\u0644\u063A\u0644\u064A\u0638\u0647"
+      - Large Intestine
+      - Gros intestin
+      - Dickdarm
+      - "\u5927\u8178"
+      - "\uB300\uC7A5"
+      - Intestino grosso
+      - "\u0422\u043E\u043B\u0441\u0442\u0430\u044F \u043A\u0438\u0448\u043A\u0430"
+      - Intestino grueso
+      - "\u5927\u80A0"
+      - "Ru\u1ED9t gi\xE0"
+      - Intestino crasso
+      - "\u5927\u8178"
+      Flags: 00000000000000000000000000
+      Languages_Touch: []
+    - Term: 13
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0627\u0644\u0627\u0645\u0639\u0627\u0621"
+      - Small Intestine
+      - "Intestin gr\xEAle"
+      - "D\xFCnndarm"
+      - "\u5C0F\u8178"
+      - "\uC791\uC740\uCC3D\uC790"
+      - Intestino delgado
+      - "\u0422\u043E\u043D\u043A\u0430\u044F \u043A\u0438\u0448\u043A\u0430"
+      - Intestino delgado
+      - "\u5C0F\u80A0"
+      - "Ru\u1ED9t non"
+      - Intestino tenue
+      - "\u5C0F\u8178"
+      Flags: 00000000000000000000000000
+      Languages_Touch: []
+    - Term: 14
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0627\u0644\u062C\u0647\u0627\u0632 \u0627\u0644\u0628\u0648\u0644\u064A"
+      - Urinary System
+      - "Syst\xE8me urinaire"
+      - Harnsystem
+      - "\u6CCC\u5C3F\u5668\u7CFB"
+      - "\uBE44\uB1E8\uAE30 \uACC4\uD1B5"
+      - "Sistema urin\xE1rio"
+      - "\u041C\u043E\u0447\u0435\u0432\u044B\u0434\u0435\u043B\u0438\u0442\u0435\u043B\u044C\u043D\u0430\u044F
+        \u0441\u0438\u0441\u0442\u0435\u043C\u0430"
+      - Sistema urinario
+      - "\u6CCC\u5C3F\u7CFB\u7EDF"
+      - "H\u1EC7 ti\u1EBFt ni\u1EC7u"
+      - Sistema urinario
+      - "\u6CCC\u5C3F\u7CFB\u7D71"
+      Flags: 00000000000000000000000000
+      Languages_Touch: []
+    - Term: 15
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u062C\u0630\u0639 \u0627\u0644\u062F\u0645\u0627\u063A"
+      - Brainstem
+      - "Tronc c\xE9r\xE9bral"
+      - Hirnstamm
+      - "\u8133\u5E79"
+      - "\uB1CC\uAC04"
+      - Tronco cerebral
+      - "\u0421\u0442\u0432\u043E\u043B \u043C\u043E\u0437\u0433\u0430"
+      - "Tronco encef\xE1lico"
+      - "\u8111\u5E72"
+      - "Th\xE2n n\xE3o"
+      - Tronco encefalico
+      - "\u8166\u5E79"
+      Flags: 00000000000000000000000000
+      Languages_Touch: []
+    - Term: 16
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0627\u0644\u0645\u062E\u064A\u062E"
+      - Cerebellum
+      - Cervelet
+      - Kleinhirn
+      - "\u5C0F\u8133"
+      - "\uC18C\uB1CC"
+      - Cerebelo
+      - "\u041C\u043E\u0437\u0436\u0435\u0447\u043E\u043A"
+      - Cerebelo
+      - "\u5C0F\u8111"
+      - "Ti\u1EC3u n\xE3o"
+      - Cervelletto
+      - "\u5C0F\u8166"
+      Flags: 00000000000000000000000000
+      Languages_Touch: []
+    - Term: 17
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0627\u0644\u0645\u0631\u0627\u0631\u0647"
+      - Gallbladder
+      - "V\xE9sicule biliaire"
+      - Gallenblase
+      - "\u80C6\u306E\u3046"
+      - "\uB2F4 \uB0AD"
+      - "Ves\xEDcula biliar"
+      - "\u0416\u0435\u043B\u0447\u043D\u044B\u0439 \u043F\u0443\u0437\u044B\u0440\u044C"
+      - "Ves\xEDcula biliar"
+      - "\u80C6\u56CA"
+      - "T\xFAi m\u1EADt"
+      - Cistifellea
+      - "\u81BD\u56CA"
+      Flags: 00000000000000000000000000
+      Languages_Touch: []
+    - Term: 18
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0628\u0646\u0643\u0631\u064A\u0627\u0633"
+      - Pancreas
+      - "Pancr\xE9as"
+      - "Bauchspeicheldr\xFCse"
+      - "\u81B5\u81D3"
+      - "\uCDCC"
+      - "P\xE2ncreas"
+      - "\u041F\u043E\u0434\u0436\u0435\u043B\u0443\u0434\u043E\u0447\u043D\u0430\u044F
+        \u0436\u0435\u043B\u0435\u0437\u0430"
+      - "P\xE1ncreas"
+      - "\u80F0\u817A"
+      - "T\u1EE5y"
+      - Pancreas
+      - "\u80F0\u817A"
+      Flags: 00000000000000000000000000
+      Languages_Touch: []
+    - Term: 19
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0643\u0644\u064A\u0629"
+      - Kidney
+      - Rein
+      - Niere
+      - "\u814E\u81D3"
+      - "\uC2E0\uC7A5"
+      - Rim
+      - "\u041F\u043E\u0447\u043A\u0430"
+      - "Ri\xF1\xF3n"
+      - "\u80BE"
+      - "Th\u1EADn"
+      - Rene
+      - "\u814E"
+      Flags: 00000000000000000000000000
+      Languages_Touch: []
+    - Term: 20
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0627\u0644\u062A\u0630\u064A\u064A\u0644"
+      - Appendix
+      - appendice
+      - Anhang
+      - "\u866B\u5782"
+      - "\uBD80\uB85D"
+      - "ap\xEAndice"
+      - "\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435"
+      - "ap\xE9ndice"
+      - "\u9611\u5C3E"
+      - "Ru\u1ED9t th\u1EEBa"
+      - appendice
+      - "\u95CC\u5C3E"
+      Flags: 00000000000000000000000000
+      Languages_Touch: []
+    - Term: 21
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0623\u0630\u0646"
+      - Ear
+      - Oreille
+      - Ohr
+      - "\u8033"
+      - "\uADC0"
+      - Orelha
+      - "\u0423\u0445\u043E"
+      - Oreja
+      - "\u8033"
+      - Tai
+      - Orecchio
+      - "\u8033"
+      Flags: 00000000000000000000000000
+      Languages_Touch: []
+    - Term: 22
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0644\u0633\u0627\u0646"
+      - Tongue
+      - Langue
+      - Zunge
+      - "\u820C"
+      - "\uD600"
+      - "L\xEDngua"
+      - "\u042F\u0437\u044B\u043A"
+      - Lengua
+      - "\u820C"
+      - "L\u01B0\u1EE1i"
+      - Lingua
+      - "\u820C"
+      Flags: 00000000000000000000000000
+      Languages_Touch: []
+    - Term: 23
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0627\u0644\u0639\u064A\u0648\u0646"
+      - Eyes
+      - Yeux
+      - Augen
+      - "\u76EE"
+      - "\uC774\uBAA9\uAD6C\uBE44"
+      - Olho
+      - "\u0412\u0437\u043E\u0440"
+      - Ojos
+      - "\u773C"
+      - "M\u1EAFt"
+      - Occhi
+      - "\u773C"
+      Flags: 00000000000000000000000000
+      Languages_Touch: []
+    - Term: 24
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0645\u0634\u064A\u0645\u0629"
+      - Placenta
+      - Placenta
+      - Plazenta
+      - "\u80CE\u76E4"
+      - "\uD0DC\uBC18"
+      - Placenta
+      - "\u041F\u043B\u0430\u0446\u0435\u043D\u0442\u0430"
+      - Placenta
+      - "\u80CE\u76D8"
+      - Nhau
+      - Placenta
+      - "\u80CE\u76E4"
+      Flags: 00000000000000000000000000
+      Languages_Touch: []
+    - Term: 25
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0627\u0644\u0642\u0635\u0628\u0647 \u0627\u0644\u0647\u0648\u0627\u0626\u064A\u0647"
+      - Trachea
+      - "Trach\xE9e"
+      - "Luftr\xF6hre"
+      - "\u6C17\u7BA1"
+      - "\uAE30\uAD00"
+      - Traqueia
+      - "\u0422\u0440\u0430\u0445\u0435\u044F"
+      - "Tr\xE1quea"
+      - "\u6C14\u7BA1"
+      - "Kh\xED qu\u1EA3n"
+      - Trachea
+      - "\u6C23\u7BA1"
+      Flags: 00000000000000000000000000
+      Languages_Touch: []
+    - Term: 26
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0646\u062E\u0627\u0639"
+      - Spinal Cord
+      - "Moelle \xE9pini\xE8re"
+      - "R\xFCckenmark"
+      - "\u810A\u9AC4"
+      - "\uCC99\uC218"
+      - Medula espinal
+      - "\u0421\u043F\u0438\u043D\u043D\u043E\u0439 \u043C\u043E\u0437\u0433"
+      - "M\xE9dula espinal"
+      - "\u810A\u9AD3"
+      - "Tu\u1EF7 s\u1ED1ng"
+      - Midollo spinale
+      - "\u810A\u9AD3"
+      Flags: 00000000000000000000000000
+      Languages_Touch: []
+    CaseInsensitiveTerms: 0
+    OnMissingTranslation: 1
+    mTerm_AppName: App_Name
+    mLanguages:
+    - Name: Arabic
+      Code: ar
+      Flags: 0
+    - Name: English
+      Code: en
+      Flags: 0
+    - Name: french
+      Code: fr
+      Flags: 0
+    - Name: German
+      Code: de
+      Flags: 0
+    - Name: Japanese
+      Code: ja
+      Flags: 0
+    - Name: Korean
+      Code: ko
+      Flags: 0
+    - Name: portuguese
+      Code: pt
+      Flags: 0
+    - Name: Russian
+      Code: ru
+      Flags: 0
+    - Name: spanish
+      Code: es
+      Flags: 0
+    - Name: Chinese
+      Code: zh
+      Flags: 0
+    - Name: Vietnamese
+      Code: vi
+      Flags: 0
+    - Name: Italian
+      Code: it
+      Flags: 0
+    - Name: Chinese (Traditional)
+      Code: zh-TW
+      Flags: 0
+    IgnoreDeviceLanguage: 0
+    _AllowUnloadingLanguages: 1
+    Google_WebServiceURL: 
+    Google_SpreadsheetKey: 
+    Google_SpreadsheetName: 
+    Google_LastUpdatedVersion: 
+    Google_Password: change_this
+    GoogleUpdateFrequency: 3
+    GoogleInEditorCheckFrequency: 2
+    GoogleUpdateDelay: 5
+    Assets: []
+    Spreadsheet_LocalFileName: 
+    Spreadsheet_LocalCSVSeparator: ','
+    Spreadsheet_LocalCSVEncoding: utf-8
+    Spreadsheet_SpecializationAsRows: 1
